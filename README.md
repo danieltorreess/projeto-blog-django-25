@@ -66,9 +66,9 @@ Host github.com
 
 # Forçando o push
 $env:GIT_SSH_COMMAND="ssh -i C:\\Users\\Cicero\\.ssh\\danieltorres_rsa"
-
-# Push normal
 git push -u origin main
 
+# Push simples
+git push
 
 
